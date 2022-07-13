@@ -101,7 +101,7 @@ h2{
     padding: 2% 3%;
 }
 /* for mobile responsive */
-@media (max-width: 1020px){
+@media (max-width: 1028px){
     #main-title{
         text-align: center;
     }
